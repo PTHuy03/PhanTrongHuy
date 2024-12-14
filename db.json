@@ -1,25 +1,25 @@
 {
   "Users":  [
     {
-      "Userid": 1,
-			"Username": "Phan Trong Huy",
-			"Email": "pthuy200307@gmail.com",
-			"Password": "huy0307@",
-			"AvatarPath": "C:\\huy\\user1"
+      	"Userid": 1,
+	"Username": "Phan Trong Huy",
+	"Email": "pthuy200307@gmail.com",
+	"Password": "huy0307@",
+	"AvatarPath": "C:\\huy\\user1"
     },
     {
-      "Userid": 2,
-			"Username": "Pham Quoc Cuong",
-			"Email": "phamquoccuong.pqc.job@gmail.com",
-			"Password": "cuong123@",
-			"AvatarPath": "C:\\huy\\user1"
+      	"Userid": 2,
+	"Username": "Pham Quoc Cuong",
+	"Email": "phamquoccuong.pqc.job@gmail.com",
+	"Password": "cuong123@",
+	"AvatarPath": "C:\\huy\\user1"
     },
     {
-      "Userid": 2,
-			"Username": "Vo Nghia Ky",
-			"Email": "nghiaky12a7@gmail.com",
-			"Password": "nghiaky123@",
-			"AvatarPath": "C:\\huy\\user1"
+      	"Userid": 2,
+	"Username": "Vo Nghia Ky",
+	"Email": "nghiaky12a7@gmail.com",
+	"Password": "nghiaky123@",
+	"AvatarPath": "C:\\huy\\user1"
     }
   ]
 }
